@@ -1,0 +1,6 @@
+.vs/*
+GameLobbyServer/*
+x64/*
+*.exe
+*.dll
+*.txt
